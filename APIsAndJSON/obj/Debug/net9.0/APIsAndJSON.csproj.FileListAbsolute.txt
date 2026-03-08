@@ -31,3 +31,4 @@ C:\Users\colbe\OneDrive\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Deb
 C:\Users\colbe\OneDrive\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net9.0\APIsAndJSON.pdb
 C:\Users\colbe\OneDrive\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net9.0\APIsAndJSON.genruntimeconfig.cache
 C:\Users\colbe\OneDrive\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\obj\Debug\net9.0\ref\APIsAndJSON.dll
+C:\Users\colbe\OneDrive\Desktop\repos\APIs-and-JSON-Exercise\APIsAndJSON\bin\Debug\net9.0\appsettings.json
